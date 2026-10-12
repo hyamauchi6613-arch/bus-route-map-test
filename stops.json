@@ -1,0 +1,2902 @@
+{
+  "schemaVersion": 1,
+  "sourceNote": "Unique stop names extracted from route stop lists. Coordinates intentionally left null until verified.",
+  "stops": [
+    {
+      "id": "stop-0001",
+      "name": "競輪場前",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0002",
+      "name": "三菱電機前",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0003",
+      "name": "県立短大",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0004",
+      "name": "小鹿局前",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0005",
+      "name": "済生会病院正面",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0006",
+      "name": "農業会館前",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0007",
+      "name": "曲金三丁目・歯科医師会館",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0008",
+      "name": "小黒二丁目東",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0009",
+      "name": "小黒二丁目",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0010",
+      "name": "八幡二丁目",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0011",
+      "name": "八幡三丁目",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0012",
+      "name": "稲川町",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0013",
+      "name": "静岡駅南口",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0014",
+      "name": "伊河麻神社前",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0015",
+      "name": "中田小学校",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0016",
+      "name": "中田二丁目",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0017",
+      "name": "中田三丁目西",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0018",
+      "name": "中田四丁目",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0019",
+      "name": "石田イオンセントラルスクエア",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0020",
+      "name": "駿河区役所静岡新聞社前",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0021",
+      "name": "ポリテクセンター静岡",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0022",
+      "name": "駿河総合高校前",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0023",
+      "name": "有明町南",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0024",
+      "name": "静岡総合庁舎前",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0025",
+      "name": "豊田中学ツインメッセ前",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0026",
+      "name": "豊田一丁目",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0027",
+      "name": "済生会病院南",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0028",
+      "name": "小鹿営業所",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0029",
+      "name": "競輪場入口",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0030",
+      "name": "新静岡",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0031",
+      "name": "静岡駅前",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0032",
+      "name": "静岡ガスエネリアＳＲ静岡入口",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0033",
+      "name": "八幡一丁目",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0034",
+      "name": "曲金六丁目",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0035",
+      "name": "曲金七丁目",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0036",
+      "name": "東静岡駅南口",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0037",
+      "name": "池田橋",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0038",
+      "name": "長沼大橋南",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0039",
+      "name": "東豊田小学校前",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0040",
+      "name": "西峯田",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0041",
+      "name": "畑守稲荷前",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0042",
+      "name": "動物園入口",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0043",
+      "name": "英和学院大学池田山団地",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0044",
+      "name": "舞台芸術公園",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0045",
+      "name": "日本平メモリアルガーデン",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0046",
+      "name": "遊木の森入口",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0047",
+      "name": "日本平ホテル",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0048",
+      "name": "日本平夢テラス入口",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0049",
+      "name": "日本平ロープウェイ",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0050",
+      "name": "日本平動物園",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0051",
+      "name": "栄町",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0052",
+      "name": "日の出町",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0053",
+      "name": "下横田",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0054",
+      "name": "曲金するが視覚総合特別支援学校",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0055",
+      "name": "済生会病院前",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0056",
+      "name": "小鹿",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0057",
+      "name": "小鹿公民館前",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0058",
+      "name": "堀ノ内",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0059",
+      "name": "片山",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0060",
+      "name": "片山南",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0061",
+      "name": "宮川",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0062",
+      "name": "井庄",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0063",
+      "name": "大谷小学校前",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0064",
+      "name": "洋光台入口",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0065",
+      "name": "大谷",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0066",
+      "name": "大谷中",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0067",
+      "name": "東大谷",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0068",
+      "name": "静大片山",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0069",
+      "name": "静岡大学",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0070",
+      "name": "静大宮川",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0071",
+      "name": "駿河台公園",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0072",
+      "name": "ふじのくに地球環境史ミュージアム",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0073",
+      "name": "県庁・静岡市役所葵区役所前",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0074",
+      "name": "中町",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0075",
+      "name": "八千代町",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0076",
+      "name": "赤鳥居・浅間神社入口",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0077",
+      "name": "材木町",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0078",
+      "name": "井の宮局前",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0079",
+      "name": "妙見下",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0080",
+      "name": "籠上",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0081",
+      "name": "籠上中",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0082",
+      "name": "新伝馬",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0083",
+      "name": "伊呂波町",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0084",
+      "name": "秋山町",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0085",
+      "name": "西ヶ谷運動場入口",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0086",
+      "name": "下与北",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0087",
+      "name": "安倍口新田",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0088",
+      "name": "安倍口郵便局前",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0089",
+      "name": "安倍口小学校前",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0090",
+      "name": "中の郷",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0091",
+      "name": "美和団地前",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0092",
+      "name": "美和小学校入口",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0093",
+      "name": "遠藤新田",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0094",
+      "name": "美和中学校前",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0095",
+      "name": "原田",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0096",
+      "name": "八十岡入口",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0097",
+      "name": "一面",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0098",
+      "name": "舟沢",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0099",
+      "name": "舟沢上",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0100",
+      "name": "敷地",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0101",
+      "name": "敷地上",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0102",
+      "name": "湯権現",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0103",
+      "name": "栗島",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0104",
+      "name": "谷沢",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0105",
+      "name": "口長島",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0106",
+      "name": "奥長島",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0107",
+      "name": "安倍口団地南",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0108",
+      "name": "安倍口団地北",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0109",
+      "name": "足久保こども園",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0110",
+      "name": "谷口北公園上",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0111",
+      "name": "足久保団地",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0112",
+      "name": "小黒三丁目南部体育館入口",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0113",
+      "name": "南郵便局ツインメッセ前",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0114",
+      "name": "富士見台・駿河総合高校入口",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0115",
+      "name": "登呂一丁目",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0116",
+      "name": "登呂二丁目",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0117",
+      "name": "登呂二丁目南",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0118",
+      "name": "宮竹一丁目",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0119",
+      "name": "高松公園",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0120",
+      "name": "登呂コープタウン",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0121",
+      "name": "西草深町",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0122",
+      "name": "英和女学院前",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0123",
+      "name": "長谷通り",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0124",
+      "name": "アイセル21",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0125",
+      "name": "安東二丁目",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0126",
+      "name": "岩成不動",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0127",
+      "name": "中電社宅前",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0128",
+      "name": "城北高校前",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0129",
+      "name": "柳新田上",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0130",
+      "name": "柳新田辻",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0131",
+      "name": "県営住宅前",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0132",
+      "name": "北安東五丁目",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0133",
+      "name": "城北二丁目",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0134",
+      "name": "静岡中央高校入口",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0135",
+      "name": "県立総合病院入口",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0136",
+      "name": "若葉町",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0137",
+      "name": "唐瀬入口",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0138",
+      "name": "岳美",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0139",
+      "name": "唐瀬営業所",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0140",
+      "name": "県立総合病院",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0141",
+      "name": "安東一丁目",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0142",
+      "name": "安東二丁目北",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0143",
+      "name": "安東小学校前",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0144",
+      "name": "記念碑前",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0145",
+      "name": "大岩二丁目",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0146",
+      "name": "北安東三丁目",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0147",
+      "name": "池ヶ谷",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0148",
+      "name": "唐瀬",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0149",
+      "name": "時ヶ谷",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0150",
+      "name": "小時",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0151",
+      "name": "谷久保",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0152",
+      "name": "草場",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0153",
+      "name": "八津口",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0154",
+      "name": "中村",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0155",
+      "name": "麻機小学校",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0156",
+      "name": "有永",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0157",
+      "name": "有永上",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0158",
+      "name": "羽高",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0159",
+      "name": "北大門公園入口",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0160",
+      "name": "麻機不動山",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0161",
+      "name": "麻機ヶ丘",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0162",
+      "name": "麻機北",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0163",
+      "name": "麻機",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0164",
+      "name": "静岡商工会議所前",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0165",
+      "name": "馬渕一丁目",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0166",
+      "name": "馬渕二丁目",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0167",
+      "name": "馬渕三丁目",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0168",
+      "name": "馬渕四丁目",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0169",
+      "name": "見瀬Daiichi-TV入口",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0170",
+      "name": "中村町上",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0171",
+      "name": "中村町下",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0172",
+      "name": "西脇ハローワーク静岡入口",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0173",
+      "name": "西脇下",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0174",
+      "name": "西島",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0175",
+      "name": "大浜公園入口",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0176",
+      "name": "大浜",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0177",
+      "name": "大坪町",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0178",
+      "name": "城南静岡高入口",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0179",
+      "name": "中田三丁目ダイワハウス前",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0180",
+      "name": "石田ＳＢＳ学苑入口",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0181",
+      "name": "登呂遺跡入口",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0182",
+      "name": "登呂遺跡",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0183",
+      "name": "登呂南",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0184",
+      "name": "登呂コープタウン入口",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0185",
+      "name": "下島北",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0186",
+      "name": "敷地二丁目",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0187",
+      "name": "敷地北",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0188",
+      "name": "宮竹二丁目",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0189",
+      "name": "宮竹児童公園前",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0190",
+      "name": "高松公民館",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0191",
+      "name": "高松",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0192",
+      "name": "下島",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0193",
+      "name": "浜敷地",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0194",
+      "name": "宮竹",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0195",
+      "name": "大谷境",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0196",
+      "name": "西平松",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0197",
+      "name": "中平松",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0198",
+      "name": "青沢",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0199",
+      "name": "久能こども園前",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0200",
+      "name": "古宿",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0201",
+      "name": "久能学校前",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0202",
+      "name": "安居",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0203",
+      "name": "久能局前",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0204",
+      "name": "久能山下",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0205",
+      "name": "浅間神社",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0206",
+      "name": "丸山町",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0207",
+      "name": "大岩本町",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0208",
+      "name": "臨済寺前",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0209",
+      "name": "大岩町",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0210",
+      "name": "大在家",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0211",
+      "name": "大岩北",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0212",
+      "name": "平ヶ谷",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0213",
+      "name": "新川",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0214",
+      "name": "中原町",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0215",
+      "name": "寿町",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0216",
+      "name": "西中原",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0217",
+      "name": "緑が丘",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0218",
+      "name": "中野新田",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0219",
+      "name": "大里中学校",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0220",
+      "name": "静岡ＩＣ入口",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0221",
+      "name": "中島上公民館前",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0222",
+      "name": "中島団地前",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0223",
+      "name": "中島",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0224",
+      "name": "南安倍川橋",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0225",
+      "name": "下川原五丁目",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0226",
+      "name": "マイホームセンター前",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0227",
+      "name": "下川原団地",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0228",
+      "name": "徳洲会病院",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0229",
+      "name": "市民文化会館入口",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0230",
+      "name": "水落町もくせい会館入口・常葉大学静岡水落キャンパス前",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0231",
+      "name": "横内町静岡学園入口",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0232",
+      "name": "巴町",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0233",
+      "name": "銭座町",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0234",
+      "name": "三松",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0235",
+      "name": "沓谷三丁目",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0236",
+      "name": "沓谷四丁目",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0237",
+      "name": "千代田小学校前",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0238",
+      "name": "沓谷五丁目",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0239",
+      "name": "千代田六丁目",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0240",
+      "name": "千代田七丁目・東部体育館入口",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0241",
+      "name": "下足洗",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0242",
+      "name": "こども病院",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0243",
+      "name": "静岡神経医療センター",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0244",
+      "name": "流通センター入口",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0245",
+      "name": "千代田三丁目",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0246",
+      "name": "上足洗",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0247",
+      "name": "上足洗北",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0248",
+      "name": "柳新田西",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0249",
+      "name": "柳新田北",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0250",
+      "name": "北安東四丁目・静岡社会健康医学大学院大学前",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0251",
+      "name": "北安東四丁目西",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0252",
+      "name": "北安東保育園前",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0253",
+      "name": "市立高校前",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0254",
+      "name": "千代田四丁目",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0255",
+      "name": "竜南二丁目",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0256",
+      "name": "柳新田",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0257",
+      "name": "赤鳥居浅間神社入口",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0258",
+      "name": "籠上北秀英予備校前",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0259",
+      "name": "昭府一丁目",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0260",
+      "name": "昭府二丁目",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0261",
+      "name": "松富団地入口",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0262",
+      "name": "御新田",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0263",
+      "name": "御新田上",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0264",
+      "name": "松富",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0265",
+      "name": "賤機南小学校前",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0266",
+      "name": "中部運転免許センター入口",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0267",
+      "name": "福田ヶ谷新田",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0268",
+      "name": "福田ヶ谷",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0269",
+      "name": "福田ヶ谷上",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0270",
+      "name": "下",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0271",
+      "name": "下公民館前",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0272",
+      "name": "鯨ヶ池入口",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0273",
+      "name": "桜峠入口",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0274",
+      "name": "門屋南",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0275",
+      "name": "門屋",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0276",
+      "name": "牛妻笹子",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0277",
+      "name": "牛妻原",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0278",
+      "name": "賤機中小学校前",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0279",
+      "name": "牛妻",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0280",
+      "name": "牛妻坂下",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0281",
+      "name": "油山",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0282",
+      "name": "松野小学校前",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0283",
+      "name": "松野",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0284",
+      "name": "十二天",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0285",
+      "name": "津渡野",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0286",
+      "name": "郷島宮前",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0287",
+      "name": "郷島",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0288",
+      "name": "野田平入口",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0289",
+      "name": "俵沢",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0290",
+      "name": "六番",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0291",
+      "name": "相渕",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0292",
+      "name": "蕨野",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0293",
+      "name": "蕨野温泉",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0294",
+      "name": "八重沢",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0295",
+      "name": "横山",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0296",
+      "name": "真富士の里",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0297",
+      "name": "平野原",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0298",
+      "name": "平野",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0299",
+      "name": "大河内学校前",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0300",
+      "name": "中平",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0301",
+      "name": "北沢",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0302",
+      "name": "下渡",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0303",
+      "name": "上渡",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0304",
+      "name": "渡本",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0305",
+      "name": "大和田",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0306",
+      "name": "藤代入口",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0307",
+      "name": "珠数落",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0308",
+      "name": "入島",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0309",
+      "name": "湯の森",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0310",
+      "name": "六郎木",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0311",
+      "name": "関の沢入口",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0312",
+      "name": "本村",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0313",
+      "name": "孫佐島",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0314",
+      "name": "大野木",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0315",
+      "name": "草木",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0316",
+      "name": "赤水",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0317",
+      "name": "池尻橋",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0318",
+      "name": "新田",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0319",
+      "name": "新田温泉黄金の湯",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0320",
+      "name": "安倍大滝入口",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0321",
+      "name": "梅ヶ島温泉入口",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0322",
+      "name": "梅ヶ島温泉",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0323",
+      "name": "中沢",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0324",
+      "name": "中沢上",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0325",
+      "name": "金久保",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0326",
+      "name": "桂山原",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0327",
+      "name": "長光寺前",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0328",
+      "name": "桂山",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0329",
+      "name": "唯間",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0330",
+      "name": "玉川診療所",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0331",
+      "name": "上助",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0332",
+      "name": "上助上",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0333",
+      "name": "下平瀬",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0334",
+      "name": "上平瀬",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0335",
+      "name": "川島下",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0336",
+      "name": "川島",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0337",
+      "name": "大和",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0338",
+      "name": "内匠",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0339",
+      "name": "下腰越",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0340",
+      "name": "腰越",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0341",
+      "name": "大沢入口",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0342",
+      "name": "集会所前",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0343",
+      "name": "横沢",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0344",
+      "name": "玉川中学校前",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0345",
+      "name": "奥の原",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0346",
+      "name": "奥の原上",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0347",
+      "name": "森腰",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0348",
+      "name": "森腰上",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0349",
+      "name": "長熊",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0350",
+      "name": "長熊上",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0351",
+      "name": "郷土",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0352",
+      "name": "奥池ヶ谷",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0353",
+      "name": "柿島",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0354",
+      "name": "長妻田",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0355",
+      "name": "粟駒",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0356",
+      "name": "油野",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0357",
+      "name": "上落合",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0358",
+      "name": "老人福祉センター",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0359",
+      "name": "鯨ヶ池",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0360",
+      "name": "松富北",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0361",
+      "name": "北部体育館入口",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    },
+    {
+      "id": "stop-0362",
+      "name": "中部運転免許センター",
+      "lat": null,
+      "lon": null,
+      "locationStatus": "unverified",
+      "source": null
+    }
+  ]
+}
