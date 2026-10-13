@@ -245,10 +245,10 @@
     {
       "id": "stop-0031",
       "name": "静岡駅前",
-      "lat": null,
-      "lon": null,
+      "lat": 34.9725121,
+      "lon": 138.3886671,
       "locationStatus": "unverified",
-      "source": null
+      "source": "手動登録：OpenStreetMap上で位置を選択"
     },
     {
       "id": "stop-0032",
